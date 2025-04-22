@@ -1,2 +1,2 @@
 Esta es la primer linea de README.md
-deja la línea inicial como está por ahora.
+deja la linea inicial como esta ahora.
