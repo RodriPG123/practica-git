@@ -1,1 +1,3 @@
 Este es el contenido de archivo1.txt
+Esta es la segunda linea de archivo1.txt
+Esta es la tercer linea de archivo1.txt
